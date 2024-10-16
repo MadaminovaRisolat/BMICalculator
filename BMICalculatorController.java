@@ -20,6 +20,7 @@ public class BMICalculatorController {
     @FXML
     private TextField heightField;  // TextField to input height
 
+
     @FXML
     private ComboBox<String> unitBox;  // ComboBox to select measurement units (Metric or Imperial)
 
