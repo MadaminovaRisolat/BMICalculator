@@ -16,6 +16,7 @@ public class BMICalculatorController {
     @FXML
     private TextField weightField;  // TextField to input weight
 
+
     @FXML
     private TextField heightField;  // TextField to input height
 
